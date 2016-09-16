@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fbe78612-5ad8-4071-93a7-f4e866f96888" name="StableHost" url="http://thomasbeal.com">
+        <fileTransfer host="thomasbeal.com" port="21" rootFolder="/public_html" password="df99df9ddf9cdf98dfe6dfc7dffedfc5dfdddfd3" username="thomasb1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
